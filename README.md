@@ -63,7 +63,7 @@ This Instacart bot is designed to:
 - Operate directly on the user’s device  
 - Interact naturally with the Instacart app  
 - Mimic real shopper behavior  
-- Reduce detection risk  
+- Eliminate detection risk  
 
 The result is a **safer and more reliable instacart bot**.
 
