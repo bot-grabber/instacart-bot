@@ -29,16 +29,6 @@ This Instacart bot is built to work **on-device**, simulating real user interact
 
 ---
 
-## 🎥 Instacart Bot Demo (Live Auto-Claim)
-
-GitHub does not support direct video embeds, but you can watch the demo here:
-
-[![Instacart Bot Demo](https://img.youtube.com/vi/7np771LFN8k/hqdefault.jpg)](https://www.youtube.com/watch/7np771LFN8k)
-
-▶️ See the Instacart bot automatically detect and claim batches in real time.
-
----
-
 ## ⚙️ Core Features
 
 ✅ Real-time batch detection  
