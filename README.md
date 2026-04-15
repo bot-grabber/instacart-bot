@@ -1,30 +1,30 @@
-# Instacart Bot – Auto-Accept & Batch Claiming Automation
+# Instacart Batch Grabber – Auto-Accept & Batch Claiming Automation
 
-🚀 **Instacart Bot** is a high-speed automation tool designed to help Instacart shoppers **claim batches faster**, reduce missed opportunities, and stay competitive in busy markets.
+🚀 **Instacart Batch Grabber** is a high-speed automation tool designed to help Instacart shoppers **claim batches faster**, reduce missed opportunities, and stay competitive in busy markets.
 
-This repository exists to document, demonstrate, and rank for the keyword **instacart bot**, while directing users to the official download page.
+This repository exists to document, demonstrate, and rank for the keyword **instacart batch grabber**, while directing users to the official download page.
 
 ---
 
-## 🔥 What Is an Instacart Bot?
+## 🔥 What Is an Instacart Batch Grabber?
 
-An **instacart bot** is an automation solution that monitors available Instacart batches in real time and reacts faster than manual tapping by:
+An **instacart batch grabber** is an automation solution that monitors available Instacart batches in real time and reacts faster than manual tapping by:
 
 - Detecting new batches instantly  
 - Automatically claiming orders  
 - Reducing reaction time  
 - Eliminating constant screen watching  
 
-This Instacart bot is built to work **on-device**, simulating real user interaction rather than relying on unsafe server-side or API-based methods.
+This Instacart Batch Grabber is built to work **on-device**, simulating real user interaction rather than relying on unsafe server-side or API-based methods.
 
 ---
 
-## 📥 Download the Instacart Bot
+## 📥 Download the Instacart Batch Grabber
 
 👉 **Official download page:**  
-🔗 https://botgrabber.com/instacart-bot
+🔗 https://botgrabber.com/instacart-bot  
 
-> This is the only official source for the Instacart Bot.  
+> This is the only official source for the Instacart Batch Grabber.  
 > Avoid unofficial copies, scripts, or browser-based tools.
 
 ---
@@ -41,7 +41,7 @@ This Instacart bot is built to work **on-device**, simulating real user interact
 
 ---
 
-## 🤖 Why This Instacart Bot Is Different
+## 🤖 Why This Instacart Batch Grabber Is Different
 
 Many so-called “instacart bots” rely on:
 - Browser scripts  
@@ -49,17 +49,17 @@ Many so-called “instacart bots” rely on:
 - Account credential scraping  
 - API abuse that risks deactivation  
 
-This Instacart bot is designed to:
+This Instacart Batch Grabber is designed to:
 - Operate directly on the user’s device  
 - Interact naturally with the Instacart app  
 - Mimic real shopper behavior  
 - Eliminate detection risk  
 
-The result is a **safer and more reliable instacart bot**.
+The result is a **safer and more reliable instacart batch grabber**.
 
 ---
 
-## 📈 Who This Instacart Bot Is For
+## 📈 Who This Instacart Batch Grabber Is For
 
 - Full-time Instacart shoppers  
 - Gig workers in competitive zones  
@@ -68,18 +68,18 @@ The result is a **safer and more reliable instacart bot**.
 
 ---
 
-## 🔍 SEO Focus: Instacart Bot
+## 🔍 SEO Focus: Instacart Batch Grabber
 
 This repository is intentionally optimized for the following search terms:
 
-- instacart bot  
-- instacart auto accept bot  
 - instacart batch grabber  
+- instacart auto accept bot  
+- instacart bot  
 - instacart automation  
 - instacart order claiming bot  
 
 For the latest version, updates, and downloads:  
-👉 https://botgrabber.com/instacart-bot
+👉 https://botgrabber.com/instacart-bot  
 
 ---
 
@@ -93,8 +93,8 @@ Users are responsible for complying with Instacart’s terms of service and appl
 ## ⭐ Updates & Support
 
 For updates, new releases, and additional automation tools:  
-🌐 https://botgrabber.com
+🌐 https://botgrabber.com  
 
 ---
 
-**Instacart Bot – Faster Batch Claiming Through Smart Automation**
+**Instacart Batch Grabber – Faster Batch Claiming Through Smart Automation**
